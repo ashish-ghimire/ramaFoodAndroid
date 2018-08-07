@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RamaFood</string>
+    <string name="FrontScreenAppTitle">RamaFood</string>
+    <string name="FrontScreenSignIn">Sign In</string>
+    <string name="FrontScreenNoSignIn">Continue Without Signing In</string>
+    <string name="FrontScreenMotto">Eradicating food insecurity at Ramapo one event at a time</string>
+    <string name="frontScreenLogoDescription">logo</string>
+    <string name="allEvents">All Events</string>
+
+    <string name="title_activity_display_detailed_event_info">DisplayDetailedEventInfo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="readMore">Read More ...</string>
+    <string name="noInternetMessage">Looks like you are not connected to the internet...</string>
+    <string name="noInternetToDo1">1) Connect to a wifi network or turn on your mobile data</string>
+    <string name="noInternetToDo2">2) Restart the app</string>
+</resources>
